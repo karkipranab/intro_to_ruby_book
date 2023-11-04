@@ -1,0 +1,1 @@
+# first has x is a symbol, second x is a variable with a string value

@@ -1,0 +1,1 @@
+# arrays have data associated with indexes, hashes have key value pairs
